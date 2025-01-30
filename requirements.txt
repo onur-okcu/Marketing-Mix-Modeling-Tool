@@ -2,3 +2,5 @@ Faker
 PyYAML
 jupyterlab
 pandas
+pymc
+pymc3
